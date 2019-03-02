@@ -2,12 +2,13 @@
   "name": "geom",
   "version": "1.0.0",
   "description": "Geometrical and mathematical helper utils",
-  "main": "index.js",
+  "main": "./dist/geom.js",
+  "types": "./dist/geom.d.ts",
   "scripts": {
     "test": "jest --coverage",
     "start": "npm run clean && \"npm run test:watch\"",
     "clean": "shx rm -rf dist",
-    "build": "npm run clean && webpack",
+    "build": "npm run clean && webpack -p",
     "docs": "typedoc --theme markdown",
     "test:watch": "jest --watchAll --coverage"
   },
