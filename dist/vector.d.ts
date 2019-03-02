@@ -1,8 +1,4 @@
 import Point from './point';
-export interface VectorModel {
-    point?: Point;
-    radians?: number;
-}
 export interface VectorData {
     x: number;
     y: number;
