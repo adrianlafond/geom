@@ -1,5 +1,5 @@
 {
-  "name": "geom",
+  "name": "@adrianlafond/geom",
   "version": "1.0.0",
   "description": "Geometrical and mathematical helper utils",
   "main": "./dist/geom.js",
@@ -38,5 +38,10 @@
     "typescript": "^3.3.3333",
     "webpack": "^4.29.6",
     "webpack-cli": "^3.2.3"
-  }
+  },
+  "directories": {
+    "doc": "docs",
+    "test": "test"
+  },
+  "dependencies": {}
 }
