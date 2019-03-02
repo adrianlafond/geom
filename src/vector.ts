@@ -1,6 +1,6 @@
 import Point from './point';
 
-export interface VectorModel {
+interface VectorModel {
   point?: Point;
   radians?: number;
 }

@@ -1,4 +1,4 @@
-import Point from './point';
-import Vector from './vector';
+import Point, { PointData } from './point';
+import Vector, { VectorData } from './vector';
 
-export { Point, Vector };
+export { Point, PointData, Vector, VectorData };
