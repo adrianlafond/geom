@@ -4,7 +4,11 @@
   "description": "Geometrical and mathematical helper utils",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest --coverage",
+    "start": "npm run clean && \"npm run test:watch\"",
+    "clean": "shx rm -rf dist",
+    "build": "npm run clean && webpack",
+    "test:watch": "jest --watchAll --coverage"
   },
   "repository": {
     "type": "git",
@@ -20,5 +24,15 @@
   "bugs": {
     "url": "https://github.com/adrianlafond/geom/issues"
   },
-  "homepage": "https://github.com/adrianlafond/geom#readme"
+  "homepage": "https://github.com/adrianlafond/geom#readme",
+  "devDependencies": {
+    "@types/jest": "^24.0.9",
+    "awesome-typescript-loader": "^5.2.1",
+    "jest": "^24.1.0",
+    "shx": "^0.3.2",
+    "ts-jest": "^24.0.0",
+    "typescript": "^3.3.3333",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.2.3"
+  }
 }
