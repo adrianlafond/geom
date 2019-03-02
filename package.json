@@ -1,0 +1,24 @@
+{
+  "name": "geom",
+  "version": "1.0.0",
+  "description": "Geometrical and mathematical helper utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrianlafond/geom.git"
+  },
+  "keywords": [
+    "geometry",
+    "math",
+    "point"
+  ],
+  "author": "Adrian Lafond <mail@adrianlafond.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adrianlafond/geom/issues"
+  },
+  "homepage": "https://github.com/adrianlafond/geom#readme"
+}
