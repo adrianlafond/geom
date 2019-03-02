@@ -1,9 +1,9 @@
 {
   "name": "@adrianlafond/geom",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Geometrical and mathematical helper utils",
   "main": "./dist/geom.js",
-  "types": "./dist/geom.d.ts",
+  "types": "./dist/index.d.ts",
   "scripts": {
     "test": "jest --coverage",
     "start": "npm run clean && \"npm run test:watch\"",
