@@ -1,4 +1,4 @@
-[geom](../README.md) > ["vector"](../modules/_vector_.md) > [VectorData](../interfaces/_vector_.vectordata.md)
+[@adrianlafond/geom](../README.md) > ["vector"](../modules/_vector_.md) > [VectorData](../interfaces/_vector_.vectordata.md)
 
 # Interface: VectorData
 
@@ -24,7 +24,7 @@
 
 **● radians**: *`number`*
 
-*Defined in [vector.ts:11](https://github.com/adrianlafond/geom/blob/255e0b6/src/vector.ts#L11)*
+*Defined in [vector.ts:11](https://github.com/adrianlafond/geom/blob/c529274/src/vector.ts#L11)*
 
 ___
 <a id="x"></a>
@@ -33,7 +33,7 @@ ___
 
 **● x**: *`number`*
 
-*Defined in [vector.ts:9](https://github.com/adrianlafond/geom/blob/255e0b6/src/vector.ts#L9)*
+*Defined in [vector.ts:9](https://github.com/adrianlafond/geom/blob/c529274/src/vector.ts#L9)*
 
 ___
 <a id="y"></a>
@@ -42,7 +42,7 @@ ___
 
 **● y**: *`number`*
 
-*Defined in [vector.ts:10](https://github.com/adrianlafond/geom/blob/255e0b6/src/vector.ts#L10)*
+*Defined in [vector.ts:10](https://github.com/adrianlafond/geom/blob/c529274/src/vector.ts#L10)*
 
 ___
 

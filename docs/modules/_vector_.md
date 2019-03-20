@@ -1,4 +1,4 @@
-[geom](../README.md) > ["vector"](../modules/_vector_.md)
+[@adrianlafond/geom](../README.md) > ["vector"](../modules/_vector_.md)
 
 # External module: "vector"
 

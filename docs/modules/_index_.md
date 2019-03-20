@@ -1,4 +1,4 @@
-[geom](../README.md) > ["index"](../modules/_index_.md)
+[@adrianlafond/geom](../README.md) > ["index"](../modules/_index_.md)
 
 # External module: "index"
 

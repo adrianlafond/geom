@@ -1,4 +1,4 @@
-[geom](../README.md) > ["vector"](../modules/_vector_.md) > [VectorModel](../interfaces/_vector_.vectormodel.md)
+[@adrianlafond/geom](../README.md) > ["vector"](../modules/_vector_.md) > [VectorModel](../interfaces/_vector_.vectormodel.md)
 
 # Interface: VectorModel
 
@@ -23,7 +23,7 @@
 
 **● point**: *[Point](../classes/_point_.point.md)*
 
-*Defined in [vector.ts:4](https://github.com/adrianlafond/geom/blob/255e0b6/src/vector.ts#L4)*
+*Defined in [vector.ts:4](https://github.com/adrianlafond/geom/blob/c529274/src/vector.ts#L4)*
 
 ___
 <a id="radians"></a>
@@ -32,7 +32,7 @@ ___
 
 **● radians**: *`number`*
 
-*Defined in [vector.ts:5](https://github.com/adrianlafond/geom/blob/255e0b6/src/vector.ts#L5)*
+*Defined in [vector.ts:5](https://github.com/adrianlafond/geom/blob/c529274/src/vector.ts#L5)*
 
 ___
 

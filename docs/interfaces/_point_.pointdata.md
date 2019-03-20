@@ -1,4 +1,4 @@
-[geom](../README.md) > ["point"](../modules/_point_.md) > [PointData](../interfaces/_point_.pointdata.md)
+[@adrianlafond/geom](../README.md) > ["point"](../modules/_point_.md) > [PointData](../interfaces/_point_.pointdata.md)
 
 # Interface: PointData
 
@@ -23,7 +23,7 @@
 
 **● x**: *`number`*
 
-*Defined in [point.ts:5](https://github.com/adrianlafond/geom/blob/255e0b6/src/point.ts#L5)*
+*Defined in [point.ts:5](https://github.com/adrianlafond/geom/blob/c529274/src/point.ts#L5)*
 
 ___
 <a id="y"></a>
@@ -32,7 +32,7 @@ ___
 
 **● y**: *`number`*
 
-*Defined in [point.ts:6](https://github.com/adrianlafond/geom/blob/255e0b6/src/point.ts#L6)*
+*Defined in [point.ts:6](https://github.com/adrianlafond/geom/blob/c529274/src/point.ts#L6)*
 
 ___
 

@@ -1,4 +1,4 @@
-[geom](../README.md) > ["point"](../modules/_point_.md)
+[@adrianlafond/geom](../README.md) > ["point"](../modules/_point_.md)
 
 # External module: "point"
 
