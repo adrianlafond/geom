@@ -1,4 +1,4 @@
-import Angle from '../src/angle';
+import { Angle } from '../src';
 
 describe('Angle', () => {
   it('converts radians to degrees', () => {

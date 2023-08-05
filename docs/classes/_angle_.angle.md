@@ -25,7 +25,7 @@
 
 ▸ **interpolate**(r1: *`number`*, r2: *`number`*, progress: *`number`*): `number`
 
-*Defined in angle.ts:23*
+*Defined in [angle.ts:21](https://github.com/adrianlafond/geom/blob/3526ca8/src/angle.ts#L21)*
 
 **Parameters:**
 
@@ -44,7 +44,7 @@ ___
 
 ▸ **normalize**(value: *`number`*): `number`
 
-*Defined in angle.ts:33*
+*Defined in [angle.ts:32](https://github.com/adrianlafond/geom/blob/3526ca8/src/angle.ts#L32)*
 
 **Parameters:**
 
@@ -61,7 +61,7 @@ ___
 
 ▸ **toDegrees**(value: *`number`*): `number`
 
-*Defined in angle.ts:14*
+*Defined in [angle.ts:12](https://github.com/adrianlafond/geom/blob/3526ca8/src/angle.ts#L12)*
 
 **Parameters:**
 
@@ -78,7 +78,7 @@ ___
 
 ▸ **toRadians**(value: *`number`*): `number`
 
-*Defined in angle.ts:7*
+*Defined in [angle.ts:5](https://github.com/adrianlafond/geom/blob/3526ca8/src/angle.ts#L5)*
 
 **Parameters:**
 
