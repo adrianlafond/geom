@@ -8,6 +8,10 @@ export default class Angle {
     */
     static toDegrees(value: number): number;
     /**
+     *
+     */
+    static delta(r1: number, r2: number): number;
+    /**
     * @param r1 in radians
     * @param r2 in radians
     * @param progress percent expressed as a value between 0 and 1

@@ -16,6 +16,12 @@ var Angle = /** @class */ (function () {
         return value * 180 / Math.PI;
     };
     /**
+     *
+     */
+    Angle.delta = function (r1, r2) {
+        return Angle.normalize(r1 - r2);
+    };
+    /**
     * @param r1 in radians
     * @param r2 in radians
     * @param progress percent expressed as a value between 0 and 1

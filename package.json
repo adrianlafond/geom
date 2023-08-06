@@ -1,6 +1,6 @@
 {
   "name": "@adrianlafond/geom",
-  "version": "1.2.8",
+  "version": "1.2.9",
   "description": "Geometrical and mathematical helper utils",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
